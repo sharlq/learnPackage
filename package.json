@@ -1,7 +1,7 @@
 {
 	
 	"name": "fcc-learn-npm-package-json",
-	author": "foobar",
+	"author": "Shehab khader",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
